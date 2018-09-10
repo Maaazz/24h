@@ -1,4 +1,4 @@
-token="NDgzOTU2NTY4MDg2MjgyMjUy.DnB2qQ.b4qfPr43Mz5oCoWysdx75kHvdvA"
+token=NDgzOTU2NTY4MDg2MjgyMjUy.DnB2qQ.b4qfPr43Mz5oCoWysdx75kHvdvA
 owner=445630664671232000
 prefix=.
 game=.
