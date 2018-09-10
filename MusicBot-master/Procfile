@@ -1,1 +1,1 @@
-worker: bot.jar -nogui
+worker: java -jar bot.jar -nogui
